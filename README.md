@@ -102,6 +102,14 @@ VeriHire AI is an ongoing project focused on evidence-based recruitment fraud de
 
 GitHub: [prasanna-gorusetti07](https://github.com/prasanna-gorusetti07)
 
+## 🖥️ Project Screenshots
+
+### Homepage
+![VeriHire AI Homepage](verihire-homepage.png)
+
+### Investigation Chat
+![Investigation Chat](investigation-chat.png)
+
 ## 📜 License
 
 This project is licensed under the MIT License, subject to the repository's license file.
